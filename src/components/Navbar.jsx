@@ -23,7 +23,7 @@ function Navbar() {
           <Link to="/" className="flex items-center space-x-2">
             <Notebook className="h-8 w-8 text-indigo-600" />
             <span className="text-xl font-semibold text-gray-900">
-              QuickNotes
+              QuickNotes New Title
             </span>
           </Link>
 
